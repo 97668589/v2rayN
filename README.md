@@ -5,7 +5,5 @@ Windows 7及以上系统
 # 软件安装密码
 软件安装时，请仔细查看安装界面，密码就在其中！
 # 节点获取
-email：admin@sxlog.com
-
 TG:https://t.me/+_96WKEMZxHU0ZTc1
 ![image](https://user-images.githubusercontent.com/56907698/156868659-16d514e6-e4c9-453a-aad0-e0588c8b0598.png)
