@@ -18,7 +18,3 @@ Windows 7及以上系统
 
 自动分应用代理
 ![设置：自动分应用代理](https://user-images.githubusercontent.com/56907698/164755127-82b3c27b-b54c-46fb-91ec-42b9cbe7092d.png)
-
-# 节点获取
-TG:https://t.me/+_96WKEMZxHU0ZTc1
-![image](https://user-images.githubusercontent.com/56907698/156868659-16d514e6-e4c9-453a-aad0-e0588c8b0598.png)
