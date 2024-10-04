@@ -8,13 +8,3 @@ Windows 7及以上系统
 
 # 软件安装密码
 软件安装时，请仔细查看安装界面，密码就在其中！
-
-# 软件使用教程
-电脑端
-![电脑客户端使用教程](https://user-images.githubusercontent.com/56907698/164755093-9b5183d4-78b9-4f23-824e-098332d0265f.png)
-
-移动端分流
-![设置：海外国内自动分流](https://user-images.githubusercontent.com/56907698/164755111-b5def608-c31d-4731-951f-f666d6cb8297.png)
-
-自动分应用代理
-![设置：自动分应用代理](https://user-images.githubusercontent.com/56907698/164755127-82b3c27b-b54c-46fb-91ec-42b9cbe7092d.png)
